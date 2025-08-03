@@ -6,13 +6,15 @@ This is a simple static website built using **HTML** and **CSS** to showcase who
 
 ## 📂 Project Structure
 
-This website includes the following HTML pages:
+✨This website includes the following HTML pages:
 
-index.html – The landing page with a short introduction and contact info
-home.html – A more detailed bio, including my education, goals, and interests
-contacts.html – All the ways to get in touch with me, including email, phone, and QR codes
-contacts.html-for contact details
-about.html-get to know Amy a little bit.
+✨index.html – The landing page with a short introduction and contact info
+
+✨home.html – A more detailed bio, including my education, goals, and interests
+
+✨contacts.html – All the ways to get in touch with me, including email, phone, and QR codes
+
+✨about.html-get to know Amy a little bit.
 
 ## 📬 Contact 
 Email: amymutheu05@gmail.com  
