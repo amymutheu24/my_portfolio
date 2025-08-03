@@ -1,0 +1,116 @@
+.navbar ul {
+    list-style-type: none;
+    padding: 20px;
+    margin: 0px;
+    overflow: hidden;
+    border-style: inset;
+
+    border-color: aquamarine;
+}
+
+
+.navbar a {
+    color: teal;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.navbar a:hover {
+    color: black;
+}
+
+.navbar li {
+    float: left;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h1 {
+    text-align: center;
+    font-family: myFont;
+    color: pink;
+}
+
+h2 {
+    color: pink;
+}
+
+body {
+    margin: 0px;
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+main {
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.picture {
+
+    float: left;
+    padding: 0.3cm;
+    border-style: inset;
+    border-radius: 1pc;
+    margin: 1cm;
+    border-color: pink;
+
+}
+
+.info {
+    margin-top: 1cm;
+    padding-top: 1cm;
+}
+
+.contacts a {
+    border-style: outset;
+    padding: 10px;
+    margin: 0.5cm;
+    border-color: pink;
+    color: aliceblue;
+
+}
+
+.contacts {
+    margin-top: 2cm;
+}
+
+.contacts img {
+    margin-top: 0.5cm;
+    margin-left: 0.5cm
+}
+
+@font-face {
+    font-family: myFont;
+    src: url(new.ttf);
+}
+
+ol li {
+    border-style: inset;
+    border-color: teal;
+    margin: 20px;
+    padding: 1pc;
+    color: white;
+}
+
+p {
+    color: teal;
+
+}
+
+h3 {
+    border-style: inset;
+    border: 1pc;
+    border-radius: 10px;
+    color: pink;
+    margin: 1cm;
+}
